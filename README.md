@@ -3,10 +3,20 @@
 Segítség KATÁ-s [vállalkozás indításához](https://www.nyilvantarto.hu/hu/evig_megkezdes)
 és folytatásához távoli munkavégzés esetén.
 
+### A KATA előnyei
+
+- Elektronikusan kiváltható, nem kell se ügyvéd, se könyvelő
+- Éves 12 millió forint bevételig havi 50 ezer forint tételes adó fizetendő
+  (kb. a társasági adó mértékének fele)
+- Nem kell a kiadást könyvelni, számon tartani
+- Nem kell a vállalkozásnak külön bankszámlát nyitni
+
 ### Rendszerkövetelmények
 
 1. Windows 10 Pro
-1. [Java Standard Edition](https://www.oracle.com/java/technologies/javase-downloads.html)
+1. [Java Standard Edition Version 8](https://www.java.com/en/download/manual.jsp)
+   `Windows Offline (64-bit)`
+1. Próbálkozás: friss [Java Standard Edition](https://www.oracle.com/java/technologies/javase-downloads.html)
    telepítése szóköz-mentes útvonalra pl. `C:\usr\java\jdk-13.0.2\`, nem pedig `C:\Program Files\Java\jdk-13.0.2\`,
    és a start.bat-ban `%PUBLIC%\abevjava\abevjava_start.bat` az alábbi módosításokkal
    - explicit Java HOME beállítása pl. `SET "ABEV_JAVA_HOME=C:\usr\java\jdk-13.0.2\bin\"`
@@ -43,4 +53,6 @@ Főállású egyéni vállalkozó vagy min. heti 36 órás állás mellett?
 
 ### KATÁ-s vállalkozás folytatása
 
+1. Mit kell gyűjteni? bevétel, kiadás, mekkora keretig? EU-s bevétel/kiadás?
+1. Mit kinek meddig kell befizetni?
 1. ["Tárhely"](https://tarhely.gov.hu/) átmeneti és tartós üzenetek
