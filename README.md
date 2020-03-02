@@ -24,7 +24,7 @@ Segítség KATÁ-s [vállalkozás indításához](https://www.nyilvantarto.hu/hu
 
 ### KATÁ-s vállalkozás indítás
 
-Főállású egyéni vállalkozó vagy min. heti 36 órás állás mellett?
+Főállású egyéni vállalkozóként vagy min. heti 36 órás állás mellett?
 [2012. évi CXLVII. törvény 2. § 8. pontja](http://njt.hu/cgi_bin/njt_doc.cgi?docid=155155.362783#foot_8_place)
 
 1. [E-személyi](https://eszemelyi.hu/) igénylés [Kormányablakban](https://kormanyablak.hu/hu/kormanyablakok),
@@ -44,15 +44,28 @@ Főállású egyéni vállalkozó vagy min. heti 36 órás állás mellett?
    [Egyéni vállalkozók nyilvántartása](https://www.nyilvantarto.hu/evny-lekerdezo/)
 1. miért kell? [Hatósági bizonyítvány igénylése](https://www.nyilvantarto.hu/ugyseged/EgyeniVallalkozasKerelemInditasa.xhtml)
 1. [Számlázz.hu](https://www.szamlazz.hu/szamla/regisztracio) regisztráció
-1. [MKIK (Magyar Kereskedelmi és Iparkamara) regisztráció](https://mkik.hu/gazdalkodo-szervezetek-regisztracioja)
-   PDF **offline** küldése postai úton vagy telefaxon
+   [autokata](https://www.szamlazz.hu/egyedi-megoldasok/autokata/) szolgáltatással
+1. [MKIK (Magyar Kereskedelmi és Iparkamara) regisztráció](https://mkik.hu/gazdalkodo-szervezetek-regisztracioja),
+   PDF **offline** küldése (posta vagy telefax)
 1. [BPFPH (Budapest Főváros Főpolgármesteri Hivatal Adó Főosztály)](https://ssl.budapest.hu/web_hair/fszla.do)
    helyi iparűzési adó
 1. [EU adószám igénylése](https://supportkata.riport.co.hu/hc/hu/articles/360019947131-EU-ad%C3%B3sz%C3%A1m-ig%C3%A9nyl%C3%A9se-autokat%C3%A1ban)
-   közösségen belül cégeknek való számlázáshoz Számlázz.hu autokata segítségével (20T101E nyomtavánnyal)
+   közösségen belüli cégeknek való számlázáshoz
+   Számlázz.hu autokata segítségével (20T101E nyomtavánnyal)
 
 ### KATÁ-s vállalkozás folytatása
 
-1. Mit kell gyűjteni? bevétel, kiadás, mekkora keretig? EU-s bevétel/kiadás?
-1. Mit kinek meddig kell befizetni?
+1. Mit kell könyvelni? bevétel, kiadás, mekkora keretig? EU-s bevétel/kiadás?
 1. ["Tárhely"](https://tarhely.gov.hu/) átmeneti és tartós üzenetek
+
+#### Mit kinek meddig kell befizetni?
+
+_ezeket a fejléceket szabatosra kéne fogalmazni_
+
+| Teher | Hivatal | Bevallás | Összeg | Rendszeresség / Határidő |
+| ----- | ------- | -------- | -----: | ------------------------ |
+| tételes adó | NAV | csak utalni kell | 50 000 | havi, következő hónap 12. napjáig |
+| EU-s számlák áfája? |
+| kamarai hozzájárulás | MKIK | ? | 5 000 | éves, regisztrációkor |
+| iparűzési adó | BPFPH | csak utalni kell | 25 000 | fél évente, ?meddig? |
+| #digital szolgáltatáscsomag | Számlázz.hu | - | 18 923 + autokata 16 383 | előfizetés napjától évente |
