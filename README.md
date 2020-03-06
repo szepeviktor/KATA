@@ -51,21 +51,23 @@ Főállású egyéni vállalkozóként vagy min. heti 36 órás állás mellett?
    helyi iparűzési adó
 1. [EU adószám igénylése](https://supportkata.riport.co.hu/hc/hu/articles/360019947131-EU-ad%C3%B3sz%C3%A1m-ig%C3%A9nyl%C3%A9se-autokat%C3%A1ban)
    közösségen belüli cégeknek való számlázáshoz
-   Számlázz.hu autokata segítségével (20T101E nyomtavánnyal)
+   Számlázz.hu autokata segítségével (20T101E nyomtatvánnyal)
 
 ### KATÁ-s vállalkozás folytatása
 
 1. Mit kell könyvelni? bevétel, kiadás, mekkora keretig? EU-s bevétel/kiadás?
 1. ["Tárhely"](https://tarhely.gov.hu/) átmeneti és tartós üzenetek
 
-#### Mit kinek meddig kell befizetni?
+#### Kiadások
 
 _ezeket a fejléceket szabatosra kéne fogalmazni_
 
-| Teher | Hivatal | Bevallás | Összeg | Rendszeresség / Határidő |
-| ----- | ------- | -------- | -----: | ------------------------ |
-| tételes adó | NAV | csak utalni kell | 50 000 | havi, következő hónap 12. napjáig |
+| Költség | Hivatal | Bevallás | Összeg | Rendszeresség / Határidő |
+| ------- | ------- | -------- | -----: | ------------------------ |
+| tételes adó | NAV | évente egyszer, mikor? | 50 000 | havi, következő hónap 12. napjáig |
 | EU-s számlák áfája? |
 | kamarai hozzájárulás | MKIK | ? | 5 000 | éves, regisztrációkor |
-| iparűzési adó | BPFPH | csak utalni kell | 25 000 | fél évente, ?meddig? |
+| iparűzési adó | BPFPH | évent egyszer, mikor? | 25 000 | fél évente, ?meddig? |
 | #digital szolgáltatáscsomag | Számlázz.hu | - | 18 923 + autokata 16 383 | előfizetés napjától évente |
+könyvelő
+bank
