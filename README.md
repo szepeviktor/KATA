@@ -25,7 +25,7 @@ Segítség KATÁ-s [vállalkozás indításához](https://www.nyilvantarto.hu/hu
 ### KATÁ-s vállalkozás indítás
 
 Főállású egyéni vállalkozóként vagy min. heti 36 órás állás mellett?
-[2012. évi CXLVII. törvény 2. § 8. pontja](http://njt.hu/cgi_bin/njt_doc.cgi?docid=155155.362783#foot_8_place)
+[2012. évi CXLVII. törvény 2. § 8. pontja](https://njt.hu/jogszabaly/2012-147-00-00#sc2012-147-00-00-54)
 
 1. [E-személyi](https://eszemelyi.hu/) igénylés [Kormányablakban](https://kormanyablak.hu/hu/kormanyablakok),
    [Kobil ID Token](https://nfcshop.hu/termek/kobil-id-token-eszemelyi-olvaso/)
