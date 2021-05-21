@@ -68,6 +68,6 @@ _ezeket a fejléceket szabatosra kéne fogalmazni_
 | EU-s számlák áfája? |
 | kamarai hozzájárulás | MKIK | ? | 5 000 | éves, regisztrációkor |
 | iparűzési adó | BPFPH | évent egyszer, mikor? | 25 000 | fél évente, ?meddig? |
-| #digital szolgáltatáscsomag | Számlázz.hu | - | 18 923 + autokata 16 383 | előfizetés napjától évente |
+| KATA csomag | Billingo.hu | - | 11 430 + autokata 15 700 | előfizetés napjától évente |
 könyvelő
 bank
