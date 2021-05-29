@@ -55,7 +55,10 @@ Főállású egyéni vállalkozóként vagy min. heti 36 órás állás mellett?
 
 ### KATÁ-s vállalkozás folytatása
 
-1. Mit kell könyvelni? bevétel, kiadás, mekkora keretig? EU-s bevétel/kiadás?
+1. Megbízási szerződés kötés [Ptk. XXXIX. Fejezet](http://njt.hu/cgi_bin/njt_doc.cgi?docid=159096.376761)
+   https://bplegal.hu/teljesites-igazolas/ A teljesítési igazolás formai követelményei
+1. Mit kell könyvelni? bevétel, kiadás, mekkora keretig? EU-s bevétel/kiadás? +jogszabály
+1. Évi 1 millió forint feletti bevélteleket generáló partnereknél szerződés/bevallás? +jogszabály
 1. ["Tárhely"](https://tarhely.gov.hu/) átmeneti és tartós üzenetek
 
 #### Kiadások
@@ -69,5 +72,7 @@ _ezeket a fejléceket szabatosra kéne fogalmazni_
 | kamarai hozzájárulás | MKIK | ? | 5 000 | éves, regisztrációkor |
 | iparűzési adó | BPFPH | évent egyszer, mikor? | 25 000 | fél évente, ?meddig? |
 | #digital szolgáltatáscsomag | Számlázz.hu | - | 18 923 + autokata 16 383 | előfizetés napjától évente |
-könyvelő
-bank
+
++könyvelő
++bank
++hibrid levél
