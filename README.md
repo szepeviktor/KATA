@@ -25,7 +25,7 @@ Segítség KATÁ-s [vállalkozás indításához](https://www.nyilvantarto.hu/hu
 ### KATÁ-s vállalkozás indítás
 
 Főállású egyéni vállalkozóként vagy min. heti 36 órás állás mellett?
-[2012. évi CXLVII. törvény 2. § 8. pontja](http://njt.hu/cgi_bin/njt_doc.cgi?docid=155155.362783#foot_8_place)
+[2012. évi CXLVII. törvény 2. § 8. pontja](https://njt.hu/jogszabaly/2012-147-00-00#sc2012-147-00-00-54)
 
 1. [E-személyi](https://eszemelyi.hu/) igénylés [Kormányablakban](https://kormanyablak.hu/hu/kormanyablakok),
    [Kobil ID Token](https://nfcshop.hu/termek/kobil-id-token-eszemelyi-olvaso/)
@@ -71,8 +71,9 @@ _ezeket a fejléceket szabatosra kéne fogalmazni_
 | EU-s számlák áfája? |
 | kamarai hozzájárulás | MKIK | ? | 5 000 | éves, regisztrációkor |
 | iparűzési adó | BPFPH | évent egyszer, mikor? | 25 000 | fél évente, ?meddig? |
-| #digital szolgáltatáscsomag | Számlázz.hu | - | 18 923 + autokata 16 383 | előfizetés napjától évente |
+| KATA csomag | Billingo.hu | - | 11 430 + autokata 15 700 | előfizetés napjától évente |
 
++Billingo összekötése: NAV, AutoKata, könyvelő
 +könyvelő
 +bank
 +hibrid levél
