@@ -1,6 +1,6 @@
 # Kisadózó vállalkozások tételes adója
 
-Segítség KATÁ-s [vállalkozás indításához](https://www.nyilvantarto.hu/hu/evig_megkezdes)
+Segítség KATÁ-s [vállalkozás indításához](https://www.nyilvantarto.hu/ugyseged/)
 és folytatásához távoli munkavégzés esetén.
 
 ### A KATA előnyei
