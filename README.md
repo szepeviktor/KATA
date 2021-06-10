@@ -4,8 +4,8 @@ Segítség
 [KATÁ-s vállalkozás indításához](https://www.nyilvantarto.hu/ugyseged/EgyeniVallalkozassalKapcsolatosUgyInditasa.xhtml)
 és folytatásához **távoli munkavégzés** esetén.
 
-[NAV Információs füzetek](https://nav.gov.hu/nav/inf_fuz)
-> 2021 > Egyéb adónemek, kötelezettségek > KATA - Kisadózó vállalkozások tételes adója
+[NAV Információs füzetek](https://nav.gov.hu/nav/inf_fuz) >
+2021 > Egyéb adónemek, kötelezettségek > KATA - Kisadózó vállalkozások tételes adója
 
 ### A KATA előnyei
 
