@@ -61,16 +61,16 @@ Főállású egyéni vállalkozóként vagy min. heti 36 órás állás mellett?
 
 1. Megbízási szerződés kötés [Ptk. XXXIX. Fejezet](http://njt.hu/cgi_bin/njt_doc.cgi?docid=159096.376761)
    https://bplegal.hu/teljesites-igazolas/ A teljesítési igazolás formai követelményei
-1. Mit kell könyvelni? bevétel, kiadás, mekkora keretig? EU-s bevétel/kiadás? +jogszabály Áfa§37 https://nav.gov.hu/nav/inf_fuz/2021
-1. Évi 1 millió forint feletti bevélteleket generáló partnereknél szerződés/bevallás? +jogszabály
+1. _Mit kell könyvelni? bevétel, kiadás, mekkora keretig? EU-s bevétel/kiadás? +jogszabály Áfa§37 https://nav.gov.hu/nav/inf_fuz/2021_
+1. _Évi 1 millió forint feletti bevélteleket generáló partnereknél szerződés/bevallás? +jogszabály_
 1. ["Tárhely"](https://tarhely.gov.hu/) átmeneti és tartós üzenetek
 
 #### Kiadások
 
 _ezeket a fejléceket szabatosra kéne fogalmazni_
 
-| Költség | Hivatal | Bevallás | Összeg | Rendszeresség / Határidő |
-| ------- | ------- | -------- | -----: | ------------------------ |
+| Költség | Hivatal/Szolgáltató | Bevallás | Összeg | Rendszeresség / Határidő |
+| ------- | ------------------- | -------- | -----: | ------------------------ |
 | tételes adó | NAV | évente egyszer, február | 50 000 | havi, következő hónap 12. napjáig |
 | EU-s számlák áfája? |
 | kamarai hozzájárulás | MKIK | küldik a tájékoztató | 5 000 | éves, regisztrációkor vagy március 31. |
@@ -86,3 +86,11 @@ _ezeket a fejléceket szabatosra kéne fogalmazni_
 - NAV
 - AutoKata
 - könyvelő
+
+### Vállalkozások nyilvántartásai
+
+- Cégek: https://www.e-cegjegyzek.hu/?cegkereses
+- Egyéni vállalkozók: https://www.nyilvantarto.hu/evny-lekerdezo/
+- Civil/nonprofit szervezetek: https://civil.info.hu/civil_szervezet_kereso/index.html
+- Őstermelők: https://portal.nebih.gov.hu/ostermelo-kereso
+- EU-s vállalkozások: https://ec.europa.eu/taxation_customs/vies/
