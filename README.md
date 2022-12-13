@@ -67,17 +67,15 @@ Főállású egyéni vállalkozóként vagy min. heti 36 órás állás mellett?
 
 #### Kiadások
 
-_ezeket a fejléceket szabatosra kéne fogalmazni_
-
-| Költség | Hivatal/Szolgáltató | Bevallás | Összeg | Rendszeresség / Határidő |
-| ------- | ------------------- | -------- | -----: | ------------------------ |
+| Megnevezés | Jogosult | Bevallás | Összeg | Rendszeresség / Határidő |
+| ---------- | -------- | -------- | -----: | ------------------------ |
 | tételes adó | NAV | évente egyszer, február | 50 000 | havi, következő hónap 12. napjáig |
 | EU-s számlák áfája? |
-| kamarai hozzájárulás | MKIK | küldik a tájékoztató | 5 000 | éves, regisztrációkor vagy március 31. |
-| iparűzési adó | BPFPH | év elején küldik a tájékoztató | 50 000 | két részletben: március 15., szeptember 15. |
+| kamarai hozzájárulás | MKIK | küldik a tájékoztatót | 5 000 | éves, regisztrációkor vagy március 31. |
+| iparűzési adó | BPFPH | év elején küldik a tájékoztatót | 50 000 | két részletben: március 15., szeptember 15. |
 | számlázó | Billingo.hu KATA csomag | - | 11 430 | előfizetés napjától évente |
 | papír számla küldés | Billingo.hu | - | 356 | számlánként |
-| KATA segéd | Riport Applications AutoKata | - | 15 700 | előfizetés napjától évente |
+| számlázó | Billingo Business csomag | - | 38 000 | előfizetés napjától évente |
 | könyvelő | SOMINVEST CONSULTING Kft. | - | X | havonta |
 | bankszámla | OTP Bank | - | X | havi |
 
